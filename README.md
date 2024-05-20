@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋Hope you are having a great day 🤗
+- 🔭 Currently working on private projects involving Next.JS Django and AWS.
+- 🌱Currently preparing for AWS Dev Ops Certification, and learning Hebrew and Spanish.
+- 🏅[Competitive Programmer][3] And [Competitive Typist][2].
+- 🖥️Check out my[Portfolio][5] and connect with me on [linkedIn][4].
+- 📈Most of my work is private, but feel free to check out my [repositories][1].
 
-<!--
-**TISHARP/TISHARP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: <https://github.com/TISHARP?tab=repositories>
+[2]: <https://data.typeracer.com/pit/profile?user=bevigilantheiscomingback>
+[3]: <https://leetcode.com/u/sharpdevtrev/>
+[4]: <https://www.linkedin.com/in/trevor-sharp-dev/>
+[5]: <https://sharptrev.dev/>
