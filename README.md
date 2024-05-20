@@ -2,7 +2,7 @@
 - 🔭 Currently working on private projects involving Next.JS Django and AWS.
 - 🌱Currently preparing for AWS Dev Ops Certification, and learning Hebrew and Spanish.
 - 🏅[Competitive Programmer][3] And [Competitive Typist][2].
-- 🖥️Check out my[Portfolio][5] and connect with me on [linkedIn][4].
+- 🖥️Check out my [Portfolio][5] and connect with me on [linkedIn][4].
 - 📈Most of my work is private, but feel free to check out my [repositories][1].
 
 [1]: <https://github.com/TISHARP?tab=repositories>
