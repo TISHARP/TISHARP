@@ -1,8 +1,8 @@
 ### Hi there 👋Hope you are having a great day 🤗
-- 🔭 Currently working on private projects involving Next.JS Django and AWS.
 - 🌱Currently preparing for AWS Dev Ops Certification, and learning Hebrew (CEFR A2) and Spanish (CEFR A0).
 - 🖥️Check out my [Portfolio][5] and connect with me on [linkedIn][4].
 - 🏅[Competitive Programmer][3] And [Competitive Typist][2].
+
 ![image](https://github.com/user-attachments/assets/1100ec0b-c8ee-427c-a05a-3d439e16a1e5)
 
 
