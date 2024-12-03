@@ -1,8 +1,9 @@
-### Hi there 👋Hope you are having a great day 🤗
-- 🌱 Currently preparing for AWS Dev Ops Certification, and learning Hebrew (CEFR A2) and Spanish (CEFR A0).
-- 🖥️ Check out my [Portfolio][5] and connect with me on [linkedIn][4].
-- 🚀 Check out Top Web Devs at [https://www.topwebdevs.com][6]
-[![GithubTWDFounder](https://github.com/user-attachments/assets/2459844c-8e18-4d94-a4a2-10e7f9c1e256)][6]
+### Hi there 👋Hope you are having a great day 🤗 Here's a feq quick details:
+- 🌐 Language learner (Hebrew CEFR A2, Spanish CEFR A0)
+- 🌱 Cultural immersion and religious enthusaist.
+- 🖥️ Connect with me on [linkedIn][4].
+- 🚀 Join the [Top Web Devs][6] community!
+[![Github TWD Founder](https://github.com/user-attachments/assets/2459844c-8e18-4d94-a4a2-10e7f9c1e256)][6]
 
 
 [1]: <https://github.com/TISHARP?tab=repositories>
