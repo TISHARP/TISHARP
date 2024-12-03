@@ -1,4 +1,4 @@
-### Hi there 👋Hope you are having a great day 🤗 Here's a feq quick details:
+### Hi there 👋Hope you are having a great day 🤗 Here's a few quick details:
 - 🌐 Language learner (Hebrew CEFR A2, Spanish CEFR A0)
 - 🌱 Cultural immersion and religious enthusaist.
 - 🖥️ Connect with me on [linkedIn][4].
