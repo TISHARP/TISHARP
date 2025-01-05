@@ -1,5 +1,4 @@
-### Hi there 👋Hope you are having a great day 🤗 Here's a few quick details:
-- 🌐 Language learner (Hebrew CEFR A2, Spanish CEFR A0)
+### Learn, Practice, Compete and Repeat, - Top Web Devs.
 - 🌱 Cultural immersion and religious enthusaist.
 - 🖥️ Connect with me on [linkedIn][4].
 - 🚀 Join the [Top Web Devs][6] community!
